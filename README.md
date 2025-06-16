@@ -9,10 +9,8 @@ Watch the app in action: [Demo Video](https://drive.google.com/file/d/155l8UgXM2
 ## Download
 
 ### Android
-- [Download APK](https://github.com/NagesoHaile/onboarding_app/blob/master/app-release.apk)
+- [Download APK](https://drive.google.com/file/d/1KwHCb-QLNwxKFI_APXFAP11bg8pgdGCV/view?usp=sharing)
 
-### iOS
-- [Download IPA](build/app/outputs/ios/app-release.ipa)
 
 ## Features
 
