@@ -2,6 +2,14 @@
 
 A modern Flutter application that helps users set up their profiles with a beautiful and intuitive interface. The app follows clean architecture principles and implements BLoC pattern for state management.
 
+## Download
+
+### Android
+- [Download APK](build/app/outputs/flutter-apk/app-release.apk)
+
+### iOS
+- [Download IPA](build/app/outputs/ios/app-release.ipa)
+
 ## Features
 
 - **Profile Setup**: Interactive form to collect user information
