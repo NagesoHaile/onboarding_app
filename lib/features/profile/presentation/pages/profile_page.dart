@@ -147,7 +147,9 @@ class ProfilePage extends StatelessWidget {
             child: Padding(
               padding: const EdgeInsets.all(16.0),
               child: ElevatedButton(
-                onPressed: () {},
+                onPressed: () {
+                  context.goNamed(RouteName.welcomePage);
+                },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.red.withOpacity(0.2),
                   foregroundColor: Colors.red,
