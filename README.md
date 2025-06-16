@@ -2,10 +2,14 @@
 
 A modern Flutter application that helps users set up their profiles with a beautiful and intuitive interface. The app follows clean architecture principles and implements BLoC pattern for state management.
 
+## Demo
+
+Watch the app in action: [Demo Video](https://drive.google.com/file/d/155l8UgXM2_fmhwvFbvlXSp8nHnUH7N2B/view?usp=sharing)
+
 ## Download
 
 ### Android
-- [Download APK](build/app/outputs/flutter-apk/app-release.apk)
+- [Download APK](https://github.com/NagesoHaile/onboarding_app/blob/master/app-release.apk)
 
 ### iOS
 - [Download IPA](build/app/outputs/ios/app-release.ipa)
